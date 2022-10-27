@@ -1,4 +1,4 @@
-# PROJ4-projection
+# PROJ-projection
 
 Text files including PROJ strings for use in QGIS as custom projections.
 
