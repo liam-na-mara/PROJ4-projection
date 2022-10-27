@@ -1,6 +1,6 @@
 # PROJ4-projection
 
-Text files including PROJ4 strings for use in QGIS as custom projections.
+Text files including PROJ strings for use in QGIS as custom projections.
 
 * Scottish_Continental_Shelf_WGS84_Albers_Equal_Area_PROJ4.txt - Albers Equal Area projection for the extent of the continental shelf adjacent to Scotland.
 * OSPAR_Regions_WGS84_Albers_Equal_Area_PROJ4.txt - Albers Equal Area projection for the extent of the OSPAR regions
